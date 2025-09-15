@@ -12,9 +12,9 @@ In this project, I trained two models using **Deep Q-Learning** to balance the p
 ## Results
 
 ### Model v1
-- First attempt: it balanced the pole 🎉  
-- But… it kept sliding off to the left with the pole balanced until the cart went out of bounds 🙃    
-- This happened because the reward was simply the default `+1` for all states.  
+- First attempt: it balanced the pole 🎉. 
+- But… it kept sliding off to the left with the pole balanced until the cart went out of bounds.   
+- This happened because the reward was simply the default `+1` for all states.
 
 ### Model v2
 - Then I had a lightbulb moment 😅...  
