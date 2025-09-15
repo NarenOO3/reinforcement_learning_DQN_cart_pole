@@ -28,4 +28,4 @@ This little project taught me:
 - GPUs make reinforcement learning experiments way more fun (and way faster).  
 
 ## Code & Models
-The training code and saved models (`model_v1` and `model_v2`) can be found in this repository. 
+The training code and saved models (`cart_pole_model_v1` and `cart_pole_model_v2`) can be found in this repository. 
