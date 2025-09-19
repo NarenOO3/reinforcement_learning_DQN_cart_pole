@@ -6,7 +6,7 @@ In this project, I trained two models using **Deep Q-Learning** to balance the p
 - **Input layer**: 4 inputs  
 - **Hidden layers**: Two fully connected layers with 32 units each, ReLU activation  
 - **Output layer**: Linear output  
-- **Policy**: Epsilon-greedy  
+- **Policy**: Greedy Optimal policy 
 - **Training**: Soft update of `target_q_network`  
 
 ## Results
